@@ -19,10 +19,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Check out data repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Check out skills (private, read-only token)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: Kenny-Dhub/my-game-site-skills
           token: ${{ secrets.SKILLS_READ_TOKEN }}
