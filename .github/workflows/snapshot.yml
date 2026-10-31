@@ -47,23 +47,14 @@ jobs:
           python3 "$S" snapshot --history-dir data/history --universe-file data/tracked.txt \
             --errors-out "data/errors/$month.jsonl"
 
-      - name: Daily rank (first run of each UTC day)
-        shell: bash
-        run: |
-          set -euo pipefail
-          day=$(date -u +%F)
-          # Keyed on the file, not the hour: a delayed or dropped 00:17 run must not skip the day.
-          if [ -f "reports/daily/$day.md" ]; then echo "already ranked $day"; exit 0; fi
-          python3 skills/my-roblox-game-discovery/scripts/discovery.py rank --history-dir data/history \
-            --out data/candidates/latest.json --markdown-out "reports/daily/$day.md"
-
       - name: Commit and push
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data reports
+          # Rankings and candidate lists are private: they are produced in the ops repository, never here.
+          git add data/history data/tracked.txt data/discover data/errors
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git commit -q -m "snapshot $(date -u +%FT%H:%MZ)"
           for attempt in 1 2 3; do
