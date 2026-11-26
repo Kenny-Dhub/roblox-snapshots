@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T22:33:51Z",
+  "generated_at": "2026-11-26T05:05:45Z",
   "source": "explore",
   "source_verified": false,
-  "count": 316,
+  "count": 317,
   "candidates": [
     {
       "universe_id": "5569032992",
@@ -12,17 +12,17 @@
         {
           "source": "explore:top-trending",
           "rank": 1,
-          "playing": 128857
+          "playing": 83461
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 8,
-          "playing": 128857
+          "rank": 9,
+          "playing": 84602
         },
         {
           "source": "explore:top-revisited",
           "rank": 3,
-          "playing": 128857
+          "playing": 84602
         }
       ]
     },
@@ -34,7 +34,12 @@
         {
           "source": "explore:top-trending",
           "rank": 2,
-          "playing": 12524
+          "playing": 12631
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 83,
+          "playing": 12631
         }
       ]
     },
@@ -46,34 +51,17 @@
         {
           "source": "explore:top-trending",
           "rank": 3,
-          "playing": 35828
+          "playing": 26212
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 6,
-          "playing": 35996
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 33,
-          "playing": 35828
-        }
-      ]
-    },
-    {
-      "universe_id": "7660436108",
-      "name": "[💫ANNI P2⚡] Anime Crusaders X",
-      "root_place_id": "107573139811370",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 4,
-          "playing": 103658
-        },
-        {
-          "source": "explore:top-playing-now",
           "rank": 10,
-          "playing": 103727
+          "playing": 26212
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 38,
+          "playing": 26545
         }
       ]
     },
@@ -84,18 +72,35 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 5,
-          "playing": 77968
+          "rank": 4,
+          "playing": 54329
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 13,
-          "playing": 77968
+          "rank": 17,
+          "playing": 54329
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 13,
-          "playing": 77968
+          "rank": 18,
+          "playing": 53597
+        }
+      ]
+    },
+    {
+      "universe_id": "7660436108",
+      "name": "[💫ANNI P2⚡] Anime Crusaders X",
+      "root_place_id": "107573139811370",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 5,
+          "playing": 102943
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 7,
+          "playing": 102465
         }
       ]
     },
@@ -107,12 +112,29 @@
         {
           "source": "explore:top-trending",
           "rank": 6,
-          "playing": 15905
+          "playing": 14520
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 80,
-          "playing": 15905
+          "rank": 73,
+          "playing": 14306
+        }
+      ]
+    },
+    {
+      "universe_id": "10769634720",
+      "name": "PINKIE PROMISE [CH 2]",
+      "root_place_id": "75815532269840",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 7,
+          "playing": 16783
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 61,
+          "playing": 16547
         }
       ]
     },
@@ -123,18 +145,40 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 7,
-          "playing": 15185
+          "rank": 8,
+          "playing": 14935
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 4,
-          "playing": 15185
+          "rank": 6,
+          "playing": 14942
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 87,
-          "playing": 15185
+          "rank": 68,
+          "playing": 14942
+        }
+      ]
+    },
+    {
+      "universe_id": "10778869268",
+      "name": "The Great Build",
+      "root_place_id": "98487757108234",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 9,
+          "playing": 37534
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 1,
+          "playing": 37534
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 23,
+          "playing": 37534
         }
       ]
     },
@@ -145,18 +189,40 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 8,
-          "playing": 40874
+          "rank": 10,
+          "playing": 28518
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 18,
-          "playing": 40874
+          "rank": 20,
+          "playing": 28881
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 29,
-          "playing": 40874
+          "rank": 34,
+          "playing": 28518
+        }
+      ]
+    },
+    {
+      "universe_id": "10773971368",
+      "name": "[💈] Barber Empire ",
+      "root_place_id": "129516203408961",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 11,
+          "playing": 16199
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 2,
+          "playing": 16199
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 63,
+          "playing": 16199
         }
       ]
     },
@@ -167,101 +233,18 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 9,
-          "playing": 11197
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 16,
-          "playing": 11197
-        }
-      ]
-    },
-    {
-      "universe_id": "10774725421",
-      "name": "🌎 In This World",
-      "root_place_id": "98272441761103",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 10,
-          "playing": 11891
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 10,
-          "playing": 11891
-        }
-      ]
-    },
-    {
-      "universe_id": "10773149360",
-      "name": "Half Punch",
-      "root_place_id": "73547227876007",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 11,
-          "playing": 26026
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 11,
-          "playing": 26026
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 42,
-          "playing": 25979
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 30,
-          "playing": 25979
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 92,
-          "playing": 25979
-        }
-      ]
-    },
-    {
-      "universe_id": "10774313244",
-      "name": "[UPD 8.3] Pleb's Plane Crash Sandbox [ALPHA]",
-      "root_place_id": "82887321543807",
-      "sources": [
-        {
-          "source": "explore:top-trending",
           "rank": 12,
-          "playing": 4947
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 19,
-          "playing": 4947
-        }
-      ]
-    },
-    {
-      "universe_id": "10774160414",
-      "name": "Scare Your Favorite Streamer",
-      "root_place_id": "121011978933862",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 13,
-          "playing": 15577
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 29,
-          "playing": 15371
+          "playing": 12502
         },
         {
           "source": "explore:top-playing-now",
           "rank": 85,
-          "playing": 15371
+          "playing": 12397
+        },
+        {
+          "source": "explore:top-revisited",
+          "rank": 16,
+          "playing": 12502
         }
       ]
     },
@@ -272,86 +255,62 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 14,
-          "playing": 6276
+          "rank": 13,
+          "playing": 4554
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 2,
-          "playing": 6276
+          "rank": 4,
+          "playing": 4554
         }
       ]
     },
     {
-      "universe_id": "10775483673",
-      "name": "[🦃] Defeat Ragdolls for Powers!",
-      "root_place_id": "136950293103590",
+      "universe_id": "10774725421",
+      "name": "🌎 In This World",
+      "root_place_id": "98272441761103",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 14,
+          "playing": 9603
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 16,
+          "playing": 9654
+        }
+      ]
+    },
+    {
+      "universe_id": "10773149360",
+      "name": "Half Punch",
+      "root_place_id": "73547227876007",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 15,
-          "playing": 9724
+          "playing": 20985
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 9,
-          "playing": 9724
-        }
-      ]
-    },
-    {
-      "universe_id": "10774051115",
-      "name": "Clean The Ballpit! ",
-      "root_place_id": "126221718321318",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 16,
-          "playing": 33370
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 22,
-          "playing": 33370
+          "rank": 15,
+          "playing": 20985
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 37,
-          "playing": 33370
-        }
-      ]
-    },
-    {
-      "universe_id": "10774810800",
-      "name": "Realistic Ragdoll MMA 🥊",
-      "root_place_id": "124780003623150",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 17,
-          "playing": 10767
+          "rank": 47,
+          "playing": 20985
         },
         {
-          "source": "explore:up-and-coming",
-          "rank": 50,
-          "playing": 10756
-        }
-      ]
-    },
-    {
-      "universe_id": "10773150670",
-      "name": "Realistic Hunting",
-      "root_place_id": "116884863643647",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 18,
-          "playing": 8155
+          "source": "explore:fun-with-friends",
+          "rank": 30,
+          "playing": 20985
         },
         {
-          "source": "explore:up-and-coming",
-          "rank": 24,
-          "playing": 8145
+          "source": "explore:top-revisited",
+          "rank": 92,
+          "playing": 20985
         }
       ]
     },
@@ -362,47 +321,108 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 19,
-          "playing": 6564
+          "rank": 16,
+          "playing": 4657
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 1,
-          "playing": 6564
+          "rank": 3,
+          "playing": 4657
         }
       ]
     },
     {
-      "universe_id": "10773485702",
-      "name": "[🎲] Cave Casualties",
-      "root_place_id": "112611542562333",
+      "universe_id": "10774160414",
+      "name": "Scare Your Favorite Streamer",
+      "root_place_id": "121011978933862",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 17,
+          "playing": 11485
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 30,
+          "playing": 11485
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 94,
+          "playing": 11590
+        }
+      ]
+    },
+    {
+      "universe_id": "10774313244",
+      "name": "[UPD 8.3] Pleb's Plane Crash Sandbox [ALPHA]",
+      "root_place_id": "82887321543807",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 18,
+          "playing": 3395
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 22,
+          "playing": 3374
+        }
+      ]
+    },
+    {
+      "universe_id": "10775483673",
+      "name": "[🦃] Defeat Ragdolls for Powers!",
+      "root_place_id": "136950293103590",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 19,
+          "playing": 6616
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 14,
+          "playing": 6616
+        }
+      ]
+    },
+    {
+      "universe_id": "10774051115",
+      "name": "Clean The Ballpit! ",
+      "root_place_id": "126221718321318",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 20,
-          "playing": 4899
+          "playing": 21391
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 33,
-          "playing": 4899
+          "rank": 23,
+          "playing": 21567
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 46,
+          "playing": 21567
         }
       ]
     },
     {
-      "universe_id": "10772284025",
-      "name": "[⚡️UPD 3] Be The Biggest Streamer",
-      "root_place_id": "87324870231331",
+      "universe_id": "10773150670",
+      "name": "Realistic Hunting",
+      "root_place_id": "116884863643647",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 21,
-          "playing": 15488
+          "playing": 5745
         },
         {
-          "source": "explore:top-playing-now",
-          "rank": 82,
-          "playing": 15508
+          "source": "explore:up-and-coming",
+          "rank": 25,
+          "playing": 5745
         }
       ]
     },
@@ -414,12 +434,24 @@
         {
           "source": "explore:top-trending",
           "rank": 22,
-          "playing": 6522
+          "playing": 5448
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 14,
-          "playing": 6522
+          "rank": 13,
+          "playing": 5448
+        }
+      ]
+    },
+    {
+      "universe_id": "10772284025",
+      "name": "[⚡️UPD 3] Be The Biggest Streamer",
+      "root_place_id": "87324870231331",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 23,
+          "playing": 8734
         }
       ]
     },
@@ -430,52 +462,25 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 23,
-          "playing": 6634
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 34,
-          "playing": 6634
-        }
-      ]
-    },
-    {
-      "universe_id": "10773971368",
-      "name": "[💈] Barber Empire ",
-      "root_place_id": "129516203408961",
-      "sources": [
-        {
-          "source": "explore:top-trending",
           "rank": 24,
-          "playing": 25427
+          "playing": 4769
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 3,
-          "playing": 25427
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 43,
-          "playing": 25427
+          "rank": 28,
+          "playing": 4743
         }
       ]
     },
     {
-      "universe_id": "10775016983",
-      "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
-      "root_place_id": "137036044759831",
+      "universe_id": "10773485702",
+      "name": "[🎲] Cave Casualties",
+      "root_place_id": "112611542562333",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 25,
-          "playing": 13503
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 5,
-          "playing": 13503
+          "playing": 4075
         }
       ]
     },
@@ -487,12 +492,51 @@
         {
           "source": "explore:top-trending",
           "rank": 26,
-          "playing": 9610
+          "playing": 6096
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 8,
-          "playing": 9572
+          "rank": 9,
+          "playing": 5981
+        }
+      ]
+    },
+    {
+      "universe_id": "10774753641",
+      "name": "Silent Killer Simulator",
+      "root_place_id": "120256203702735",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 27,
+          "playing": 5211
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 5,
+          "playing": 5211
+        }
+      ]
+    },
+    {
+      "universe_id": "10775016983",
+      "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
+      "root_place_id": "137036044759831",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 28,
+          "playing": 13249
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 11,
+          "playing": 13249
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 78,
+          "playing": 13249
         }
       ]
     },
@@ -503,76 +547,30 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 27,
-          "playing": 8586
+          "rank": 29,
+          "playing": 5800
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 55,
-          "playing": 8691
+          "playing": 5886
         }
       ]
     },
     {
-      "universe_id": "245662005",
-      "name": "Jailbreak ⛓️‍💥",
-      "root_place_id": "606849621",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 28,
-          "playing": 5634
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 67,
-          "playing": 5634
-        }
-      ]
-    },
-    {
-      "universe_id": "10774632516",
-      "name": "[UPD 3] HITBLOX",
-      "root_place_id": "135079017614182",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 29,
-          "playing": 4318
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 31,
-          "playing": 4350
-        }
-      ]
-    },
-    {
-      "universe_id": "10773908096",
-      "name": "Illegal Chess",
-      "root_place_id": "129272596992631",
+      "universe_id": "10775453729",
+      "name": "[👑] ROLL TO LOOKSMAX",
+      "root_place_id": "84986900845010",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 30,
-          "playing": 1057
+          "playing": 2013
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 27,
-          "playing": 1076
-        }
-      ]
-    },
-    {
-      "universe_id": "7209131331",
-      "name": "[NEW MAPS!] Arena of Survival",
-      "root_place_id": "72238253016204",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 31,
-          "playing": 3246
+          "rank": 7,
+          "playing": 2035
         }
       ]
     },
@@ -583,42 +581,59 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 32,
-          "playing": 8901
+          "rank": 31,
+          "playing": 7582
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 7,
-          "playing": 8901
+          "rank": 8,
+          "playing": 7582
         }
       ]
     },
     {
-      "universe_id": "10773896446",
-      "name": "🦠Parasite Simulator [UPD]",
-      "root_place_id": "87935648944176",
+      "universe_id": "10774632516",
+      "name": "[UPD 3] HITBLOX",
+      "root_place_id": "135079017614182",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 32,
+          "playing": 2956
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 32,
+          "playing": 2956
+        }
+      ]
+    },
+    {
+      "universe_id": "10774112978",
+      "name": "[🗣️TALKS BACK] Raise a Baby 🍼 Family RP",
+      "root_place_id": "107890611652175",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 33,
-          "playing": 3896
+          "playing": 8955
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 52,
-          "playing": 3896
+          "rank": 12,
+          "playing": 8870
         }
       ]
     },
     {
-      "universe_id": "10773124191",
-      "name": "[👥MULTIPLAYER] Pimple Pop Clinic 💥",
-      "root_place_id": "72905171016695",
+      "universe_id": "7209131331",
+      "name": "[NEW MAPS!] Arena of Survival",
+      "root_place_id": "72238253016204",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 34,
-          "playing": 2887
+          "playing": 3013
         }
       ]
     },
@@ -630,124 +645,29 @@
         {
           "source": "explore:top-trending",
           "rank": 35,
-          "playing": 17618
+          "playing": 10413
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 23,
-          "playing": 17823
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 72,
-          "playing": 17823
+          "rank": 21,
+          "playing": 10443
         }
       ]
     },
     {
-      "universe_id": "10773167150",
-      "name": "evil crawling things",
-      "root_place_id": "95651261712519",
+      "universe_id": "10747710159",
+      "name": "[💬] Word Battle!",
+      "root_place_id": "74300432420573",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 36,
-          "playing": 4758
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 37,
-          "playing": 4833
+          "playing": 7039
         },
         {
           "source": "explore:fun-with-friends",
-          "rank": 80,
-          "playing": 4758
-        }
-      ]
-    },
-    {
-      "universe_id": "10773487349",
-      "name": "[🐜] Ant Evolution",
-      "root_place_id": "123969755970816",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 37,
-          "playing": 13637
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 71,
-          "playing": 13681
-        }
-      ]
-    },
-    {
-      "universe_id": "10775041696",
-      "name": "[🦃] THE PHONE ",
-      "root_place_id": "138199295184592",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 38,
-          "playing": 3491
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 51,
-          "playing": 3556
-        }
-      ]
-    },
-    {
-      "universe_id": "10774112978",
-      "name": "[🗣️TALKS BACK] Raise a Baby 🍼 Family RP",
-      "root_place_id": "107890611652175",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 39,
-          "playing": 14450
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 12,
-          "playing": 14450
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 91,
-          "playing": 14577
-        }
-      ]
-    },
-    {
-      "universe_id": "10773092464",
-      "name": "[New🏝️🔩] Unscrew Every Screw",
-      "root_place_id": "109592006922775",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 40,
-          "playing": 6367
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 28,
-          "playing": 6361
-        }
-      ]
-    },
-    {
-      "universe_id": "10772309971",
-      "name": "[VIRE] Skiing",
-      "root_place_id": "129949708602192",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 41,
-          "playing": 788
+          "rank": 22,
+          "playing": 7151
         }
       ]
     },
@@ -758,98 +678,52 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 42,
-          "playing": 8927
+          "rank": 37,
+          "playing": 3826
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 20,
-          "playing": 8927
+          "rank": 19,
+          "playing": 3826
         }
       ]
     },
     {
-      "universe_id": "7174773198",
-      "name": "Vox Seas Update 0.5",
-      "root_place_id": "104067066727140",
+      "universe_id": "10773167150",
+      "name": "evil crawling things",
+      "root_place_id": "95651261712519",
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 43,
-          "playing": 16675
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 79,
-          "playing": 16675
-        }
-      ]
-    },
-    {
-      "universe_id": "10773493909",
-      "name": "[🚁] Taxi Getaway 🚖",
-      "root_place_id": "134727247207201",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 44,
-          "playing": 3458
+          "rank": 38,
+          "playing": 3536
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 30,
-          "playing": 3470
-        }
-      ]
-    },
-    {
-      "universe_id": "10773589437",
-      "name": "[🔵NEW!] Bloxy Feud!",
-      "root_place_id": "133199356424852",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 45,
-          "playing": 1258
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 49,
-          "playing": 1258
+          "rank": 33,
+          "playing": 3536
         },
         {
           "source": "explore:fun-with-friends",
-          "rank": 5,
-          "playing": 1241
+          "rank": 79,
+          "playing": 3536
         }
       ]
     },
     {
-      "universe_id": "9855761734",
-      "name": "San Diego Roleplay",
-      "root_place_id": "136020512003847",
+      "universe_id": "10773908096",
+      "name": "Illegal Chess",
+      "root_place_id": "129272596992631",
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 46,
-          "playing": 11153
-        }
-      ]
-    },
-    {
-      "universe_id": "10769692599",
-      "name": "AMPED",
-      "root_place_id": "127297299112141",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 47,
-          "playing": 2140
+          "rank": 39,
+          "playing": 747
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 43,
-          "playing": 2140
+          "rank": 36,
+          "playing": 747
         }
       ]
     },
@@ -860,30 +734,163 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 48,
-          "playing": 12566
+          "rank": 40,
+          "playing": 12149
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 88,
+          "playing": 12149
         }
       ]
     },
     {
-      "universe_id": "10775182046",
-      "name": "Throw a Seed",
-      "root_place_id": "129081220403721",
+      "universe_id": "10773896446",
+      "name": "🦠Parasite Simulator [UPD]",
+      "root_place_id": "87935648944176",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 41,
+          "playing": 2328
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 60,
+          "playing": 2303
+        }
+      ]
+    },
+    {
+      "universe_id": "10769829894",
+      "name": "RAGDOLL BEASTS",
+      "root_place_id": "126155782129981",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 42,
+          "playing": 2684
+        }
+      ]
+    },
+    {
+      "universe_id": "10773493909",
+      "name": "[🚁] Taxi Getaway 🚖",
+      "root_place_id": "134727247207201",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 43,
+          "playing": 1836
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 31,
+          "playing": 1836
+        }
+      ]
+    },
+    {
+      "universe_id": "10773487349",
+      "name": "[🐜] Ant Evolution",
+      "root_place_id": "123969755970816",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 44,
+          "playing": 14547
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 77,
+          "playing": 14533
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 71,
+          "playing": 14533
+        }
+      ]
+    },
+    {
+      "universe_id": "10773124191",
+      "name": "[👥MULTIPLAYER] Pimple Pop Clinic 💥",
+      "root_place_id": "72905171016695",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 45,
+          "playing": 2140
+        }
+      ]
+    },
+    {
+      "universe_id": "10773092464",
+      "name": "[New🏝️🔩] Unscrew Every Screw",
+      "root_place_id": "109592006922775",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 46,
+          "playing": 2944
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 35,
+          "playing": 2944
+        }
+      ]
+    },
+    {
+      "universe_id": "10768598226",
+      "name": "Clean The Backrooms! [Anomaly] ",
+      "root_place_id": "130027983564740",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 47,
+          "playing": 3268
+        }
+      ]
+    },
+    {
+      "universe_id": "10775041696",
+      "name": "[🦃] THE PHONE ",
+      "root_place_id": "138199295184592",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 48,
+          "playing": 2873
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 57,
+          "playing": 2873
+        }
+      ]
+    },
+    {
+      "universe_id": "7174773198",
+      "name": "Vox Seas Update 0.5",
+      "root_place_id": "104067066727140",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 49,
-          "playing": 28179
-        },
+          "playing": 9012
+        }
+      ]
+    },
+    {
+      "universe_id": "9855761734",
+      "name": "[🦃2X] San Diego Roleplay",
+      "root_place_id": "136020512003847",
+      "sources": [
         {
-          "source": "explore:up-and-coming",
-          "rank": 38,
-          "playing": 27872
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 39,
-          "playing": 28179
+          "source": "explore:top-trending",
+          "rank": 50,
+          "playing": 8292
         }
       ]
     },
@@ -894,71 +901,13 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 50,
-          "playing": 3412
+          "rank": 51,
+          "playing": 2398
         },
         {
           "source": "explore:up-and-coming",
           "rank": 42,
-          "playing": 3390
-        }
-      ]
-    },
-    {
-      "universe_id": "10771388912",
-      "name": "Surfing [🍍⚡🌺 HAWAII]",
-      "root_place_id": "92990017669568",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 51,
-          "playing": 1156
-        }
-      ]
-    },
-    {
-      "universe_id": "10774903300",
-      "name": "[NEW MAP] Patrol Compton",
-      "root_place_id": "88601475571919",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 52,
-          "playing": 2154
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 53,
-          "playing": 2154
-        }
-      ]
-    },
-    {
-      "universe_id": "10771718664",
-      "name": "PACK IT [Swing, Deliver📦]",
-      "root_place_id": "126998242116777",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 53,
-          "playing": 2141
-        }
-      ]
-    },
-    {
-      "universe_id": "10774444233",
-      "name": "Flat the Mountain",
-      "root_place_id": "99352685758267",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 54,
-          "playing": 8098
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 80,
-          "playing": 8098
+          "playing": 2398
         }
       ]
     },
@@ -969,13 +918,110 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 55,
-          "playing": 3085
+          "rank": 52,
+          "playing": 2177
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 47,
-          "playing": 3077
+          "rank": 41,
+          "playing": 2177
+        }
+      ]
+    },
+    {
+      "universe_id": "10772309971",
+      "name": "[VIRE] Skiing",
+      "root_place_id": "129949708602192",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 53,
+          "playing": 461
+        }
+      ]
+    },
+    {
+      "universe_id": "10775182046",
+      "name": "Throw a Seed",
+      "root_place_id": "129081220403721",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 54,
+          "playing": 31685
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 40,
+          "playing": 31685
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 28,
+          "playing": 31685
+        }
+      ]
+    },
+    {
+      "universe_id": "10774903300",
+      "name": "[NEW MAP] Patrol Compton",
+      "root_place_id": "88601475571919",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 55,
+          "playing": 1906
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 50,
+          "playing": 1906
+        }
+      ]
+    },
+    {
+      "universe_id": "10769692599",
+      "name": "AMPED",
+      "root_place_id": "127297299112141",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 56,
+          "playing": 1716
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 49,
+          "playing": 1716
+        }
+      ]
+    },
+    {
+      "universe_id": "10771718664",
+      "name": "PACK IT [Swing, Deliver📦]",
+      "root_place_id": "126998242116777",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 57,
+          "playing": 1081
+        }
+      ]
+    },
+    {
+      "universe_id": "10774444233",
+      "name": "Flat the Mountain",
+      "root_place_id": "99352685758267",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 58,
+          "playing": 6178
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 76,
+          "playing": 6178
         }
       ]
     },
@@ -986,47 +1032,30 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 56,
-          "playing": 8960
+          "rank": 59,
+          "playing": 8326
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 35,
-          "playing": 8960
+          "rank": 34,
+          "playing": 8279
         }
       ]
     },
     {
-      "universe_id": "10769069172",
-      "name": "⚡ +1 Heart Per Kill",
-      "root_place_id": "82331798712738",
+      "universe_id": "3541611379",
+      "name": "[🎉3 YEARS] Tower Defense X: BETA",
+      "root_place_id": "9503261072",
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 57,
-          "playing": 3018
+          "rank": 60,
+          "playing": 3156
         },
         {
-          "source": "explore:up-and-coming",
-          "rank": 69,
-          "playing": 3018
-        }
-      ]
-    },
-    {
-      "universe_id": "10772282824",
-      "name": "DOWNHILL BIKING",
-      "root_place_id": "84409267903124",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 58,
-          "playing": 1996
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 61,
-          "playing": 1996
+          "source": "explore:top-revisited",
+          "rank": 10,
+          "playing": 3156
         }
       ]
     },
@@ -1037,59 +1066,20 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 59,
-          "playing": 8887
-        }
-      ]
-    },
-    {
-      "universe_id": "10765526558",
-      "name": "[100+ GAMES] 1v1 Minigame Duel",
-      "root_place_id": "84823811089106",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 60,
-          "playing": 4210
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 6,
-          "playing": 4173
-        }
-      ]
-    },
-    {
-      "universe_id": "10774598130",
-      "name": "Plane Crash Physics",
-      "root_place_id": "76220613434450",
-      "sources": [
-        {
-          "source": "explore:top-trending",
           "rank": 61,
-          "playing": 2787
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 39,
-          "playing": 2787
+          "playing": 4613
         }
       ]
     },
     {
-      "universe_id": "10773616048",
-      "name": "Throw Food For Baddies",
-      "root_place_id": "89727004942007",
+      "universe_id": "10773229738",
+      "name": "🏀Basketball Duels",
+      "root_place_id": "134954408729617",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 62,
-          "playing": 4238
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 55,
-          "playing": 4238
+          "playing": 4734
         }
       ]
     },
@@ -1101,138 +1091,46 @@
         {
           "source": "explore:top-trending",
           "rank": 63,
-          "playing": 4174
+          "playing": 2911
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 48,
-          "playing": 4142
+          "rank": 45,
+          "playing": 2927
         }
       ]
     },
     {
-      "universe_id": "10775306547",
-      "name": "[CO-OP] Ragdoll Gladiator Arena",
-      "root_place_id": "81921480725704",
+      "universe_id": "10769069172",
+      "name": "⚡ +1 Heart Per Kill",
+      "root_place_id": "82331798712738",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 64,
-          "playing": 3913
+          "playing": 2508
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 72,
-          "playing": 3913
+          "rank": 73,
+          "playing": 2508
         }
       ]
     },
     {
-      "universe_id": "10773741519",
-      "name": "Fake Sick!",
-      "root_place_id": "116365602177114",
+      "universe_id": "10773616048",
+      "name": "Throw Food For Baddies",
+      "root_place_id": "89727004942007",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 65,
-          "playing": 12750
+          "playing": 4175
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 44,
-          "playing": 12750
-        }
-      ]
-    },
-    {
-      "universe_id": "10773229738",
-      "name": "🏀Basketball Duels",
-      "root_place_id": "134954408729617",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 66,
-          "playing": 4485
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 32,
-          "playing": 4485
-        }
-      ]
-    },
-    {
-      "universe_id": "10770983225",
-      "name": "Sorry!",
-      "root_place_id": "81587034639161",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 67,
-          "playing": 700
-        }
-      ]
-    },
-    {
-      "universe_id": "10774333764",
-      "name": " [🌑UPD] Anime Nexus RNG : EMINENCE IN SHADOW",
-      "root_place_id": "85829558919037",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 68,
-          "playing": 7826
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 62,
-          "playing": 7826
-        }
-      ]
-    },
-    {
-      "universe_id": "6097519616",
-      "name": "[3+ CHARACTER] Jujutsu Beatdown",
-      "root_place_id": "17798223108",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 69,
-          "playing": 2906
-        }
-      ]
-    },
-    {
-      "universe_id": "10775690703",
-      "name": "New York Taxi Simulator 🚕",
-      "root_place_id": "77792272690728",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 70,
-          "playing": 2629
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 59,
-          "playing": 2629
-        }
-      ]
-    },
-    {
-      "universe_id": "10775491090",
-      "name": "🌊 Drink the Ocean",
-      "root_place_id": "78209250473851",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 71,
-          "playing": 6100
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 46,
-          "playing": 6209
+          "rank": 56,
+          "playing": 4163
         }
       ]
     },
@@ -1243,42 +1141,139 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 72,
-          "playing": 6558
+          "rank": 66,
+          "playing": 4767
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 62,
-          "playing": 6558
+          "playing": 4767
         }
       ]
     },
     {
-      "universe_id": "10773836632",
-      "name": "Guess the rarest word 🦐 [2v2]",
-      "root_place_id": "95246966728635",
+      "universe_id": "10765526558",
+      "name": "[100+ GAMES] 1v1 Minigame Duel",
+      "root_place_id": "84823811089106",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 67,
+          "playing": 5074
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 6,
+          "playing": 4984
+        }
+      ]
+    },
+    {
+      "universe_id": "10673920146",
+      "name": "[🦃] Survive a Million Monkeys",
+      "root_place_id": "99409088950210",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 68,
+          "playing": 4473
+        }
+      ]
+    },
+    {
+      "universe_id": "10774598130",
+      "name": "Plane Crash Physics",
+      "root_place_id": "76220613434450",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 69,
+          "playing": 1871
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 48,
+          "playing": 1871
+        }
+      ]
+    },
+    {
+      "universe_id": "10772462583",
+      "name": "Fling Arena 💥",
+      "root_place_id": "117273975798730",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 70,
+          "playing": 2434
+        }
+      ]
+    },
+    {
+      "universe_id": "10773741519",
+      "name": "Fake Sick!",
+      "root_place_id": "116365602177114",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 71,
+          "playing": 6411
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 53,
+          "playing": 6399
+        }
+      ]
+    },
+    {
+      "universe_id": "10771388912",
+      "name": "Surfing [🍍⚡🌺 HAWAII]",
+      "root_place_id": "92990017669568",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 72,
+          "playing": 820
+        }
+      ]
+    },
+    {
+      "universe_id": "10775306547",
+      "name": "[CO-OP] Ragdoll Gladiator Arena",
+      "root_place_id": "81921480725704",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 73,
-          "playing": 902
+          "playing": 2453
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 66,
-          "playing": 889
+          "rank": 81,
+          "playing": 2419
         }
       ]
     },
     {
-      "universe_id": "6899325466",
-      "name": "Hyper Draw! 🎨",
-      "root_place_id": "118868556321211",
+      "universe_id": "10773589437",
+      "name": "[🔵NEW!] Bloxy Feud!",
+      "root_place_id": "133199356424852",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 74,
-          "playing": 11219
+          "playing": 1723
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 61,
+          "playing": 1733
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 5,
+          "playing": 1733
         }
       ]
     },
@@ -1290,36 +1285,36 @@
         {
           "source": "explore:top-trending",
           "rank": 75,
-          "playing": 2939
+          "playing": 2325
         }
       ]
     },
     {
-      "universe_id": "10771015863",
-      "name": "Bro Vs Bro [1-6 Players]",
-      "root_place_id": "99847426326381",
+      "universe_id": "10775491090",
+      "name": "🌊 Drink the Ocean",
+      "root_place_id": "78209250473851",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 76,
-          "playing": 1518
+          "playing": 4113
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 44,
+          "playing": 4087
         }
       ]
     },
     {
-      "universe_id": "10774554401",
-      "name": "Prison Tycoon",
-      "root_place_id": "139752339597157",
+      "universe_id": "10732101880",
+      "name": "🎨 Draw The Meme!",
+      "root_place_id": "97306412022311",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 77,
-          "playing": 6622
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 63,
-          "playing": 6622
+          "playing": 3467
         }
       ]
     },
@@ -1331,140 +1326,7 @@
         {
           "source": "explore:top-trending",
           "rank": 78,
-          "playing": 1322
-        }
-      ]
-    },
-    {
-      "universe_id": "10770641580",
-      "name": "[🗺️] Bid & Fight!",
-      "root_place_id": "72679701035122",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 79,
-          "playing": 1316
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 4,
-          "playing": 1316
-        }
-      ]
-    },
-    {
-      "universe_id": "10732101880",
-      "name": "[GameModes🎮] Draw The Meme",
-      "root_place_id": "97306412022311",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 80,
-          "playing": 4854
-        }
-      ]
-    },
-    {
-      "universe_id": "10773866961",
-      "name": "[99 PLAYERS] DONT LET IT HEAR",
-      "root_place_id": "97127381613199",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 81,
-          "playing": 2141
-        }
-      ]
-    },
-    {
-      "universe_id": "16680835",
-      "name": "Notoriety: A PAYDAY® Experience",
-      "root_place_id": "21532277",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 82,
-          "playing": 1913
-        }
-      ]
-    },
-    {
-      "universe_id": "10775491401",
-      "name": "Light Up Christmas!",
-      "root_place_id": "92458743685236",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 83,
-          "playing": 3863
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 90,
-          "playing": 3875
-        }
-      ]
-    },
-    {
-      "universe_id": "10771886114",
-      "name": "[DRAGONFLY] Raise an Ant Colony 🐜",
-      "root_place_id": "74280534082174",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 84,
-          "playing": 7020
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 63,
-          "playing": 7020
-        }
-      ]
-    },
-    {
-      "universe_id": "10775036022",
-      "name": "Can You Land A Plane?",
-      "root_place_id": "91786592083198",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 85,
-          "playing": 4315
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 93,
-          "playing": 4315
-        }
-      ]
-    },
-    {
-      "universe_id": "9505284283",
-      "name": "[PC RELEASE] Blueprint! 🛠️",
-      "root_place_id": "100585702978890",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 86,
-          "playing": 762
-        }
-      ]
-    },
-    {
-      "universe_id": "10778869268",
-      "name": "The Great Build",
-      "root_place_id": "98487757108234",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 87,
-          "playing": 51101
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 21,
-          "playing": 51101
+          "playing": 1296
         }
       ]
     },
@@ -1475,71 +1337,170 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 88,
-          "playing": 13073
+          "rank": 79,
+          "playing": 7753
         }
       ]
     },
     {
-      "universe_id": "10773582045",
-      "name": "(Grim Matchstick) CUPHEAD Fight!",
-      "root_place_id": "89975768879199",
+      "universe_id": "10769569077",
+      "name": "Overflow",
+      "root_place_id": "75535615558301",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 80,
+          "playing": 1173
+        }
+      ]
+    },
+    {
+      "universe_id": "6097519616",
+      "name": "[3+ CHARACTER] Jujutsu Beatdown",
+      "root_place_id": "17798223108",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 81,
+          "playing": 2263
+        }
+      ]
+    },
+    {
+      "universe_id": "10772282824",
+      "name": "DOWNHILL BIKING",
+      "root_place_id": "84409267903124",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 82,
+          "playing": 1434
+        }
+      ]
+    },
+    {
+      "universe_id": "6899325466",
+      "name": "Hyper Draw! 🎨",
+      "root_place_id": "118868556321211",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 83,
+          "playing": 6696
+        }
+      ]
+    },
+    {
+      "universe_id": "10774333764",
+      "name": " [🌑UPD] Anime Nexus RNG : EMINENCE IN SHADOW",
+      "root_place_id": "85829558919037",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 84,
+          "playing": 7205
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 71,
+          "playing": 7205
+        }
+      ]
+    },
+    {
+      "universe_id": "10775690703",
+      "name": "New York Taxi Simulator 🚕",
+      "root_place_id": "77792272690728",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 85,
+          "playing": 1367
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 65,
+          "playing": 1367
+        }
+      ]
+    },
+    {
+      "universe_id": "10770983225",
+      "name": "Sorry!",
+      "root_place_id": "81587034639161",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 86,
+          "playing": 1685
+        }
+      ]
+    },
+    {
+      "universe_id": "10775036022",
+      "name": "Can You Land A Plane?",
+      "root_place_id": "91786592083198",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 87,
+          "playing": 2579
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 83,
+          "playing": 2579
+        }
+      ]
+    },
+    {
+      "universe_id": "8524572339",
+      "name": "bridger: WESTERN (CLERIC)",
+      "root_place_id": "99449877692519",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 88,
+          "playing": 2309
+        },
+        {
+          "source": "explore:top-revisited",
+          "rank": 44,
+          "playing": 2324
+        }
+      ]
+    },
+    {
+      "universe_id": "10774554401",
+      "name": "Prison Tycoon",
+      "root_place_id": "139752339597157",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 89,
-          "playing": 5464
+          "playing": 5031
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 88,
-          "playing": 5464
+          "rank": 68,
+          "playing": 5031
         }
       ]
     },
     {
-      "universe_id": "10773837893",
-      "name": "Play Chess!",
-      "root_place_id": "93365009198479",
+      "universe_id": "10770641580",
+      "name": "[🗺️] Bid & Fight!",
+      "root_place_id": "72679701035122",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 90,
-          "playing": 1369
+          "playing": 1432
         },
         {
-          "source": "explore:up-and-coming",
-          "rank": 73,
-          "playing": 1369
-        }
-      ]
-    },
-    {
-      "universe_id": "9747855189",
-      "name": "[UPD] Highway Racing 🚗",
-      "root_place_id": "134426802645223",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 91,
-          "playing": 3662
-        }
-      ]
-    },
-    {
-      "universe_id": "10773448788",
-      "name": "Kill 'Em All [CHAPTER 2]",
-      "root_place_id": "123316423799511",
-      "sources": [
-        {
-          "source": "explore:top-trending",
-          "rank": 92,
-          "playing": 3285
-        },
-        {
-          "source": "explore:up-and-coming",
-          "rank": 76,
-          "playing": 3285
+          "source": "explore:fun-with-friends",
+          "rank": 4,
+          "playing": 1432
         }
       ]
     },
@@ -1550,25 +1511,64 @@
       "sources": [
         {
           "source": "explore:top-trending",
-          "rank": 93,
-          "playing": 4881
+          "rank": 91,
+          "playing": 2503
         },
         {
           "source": "explore:up-and-coming",
-          "rank": 77,
-          "playing": 4798
+          "rank": 72,
+          "playing": 2527
         }
       ]
     },
     {
-      "universe_id": "10774244015",
-      "name": "[⚔️] Kit PVP FFA ",
-      "root_place_id": "75260404327641",
+      "universe_id": "10771886114",
+      "name": "[DRAGONFLY] Raise an Ant Colony 🐜",
+      "root_place_id": "74280534082174",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 92,
+          "playing": 4784
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 63,
+          "playing": 4784
+        }
+      ]
+    },
+    {
+      "universe_id": "10776200249",
+      "name": "[UPD] Ragdoll Destruction 💥",
+      "root_place_id": "108046432046865",
+      "sources": [
+        {
+          "source": "explore:top-trending",
+          "rank": 93,
+          "playing": 4693
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 62,
+          "playing": 4637
+        }
+      ]
+    },
+    {
+      "universe_id": "10775491401",
+      "name": "Light Up Christmas!",
+      "root_place_id": "92458743685236",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 94,
-          "playing": 7486
+          "playing": 2603
+        },
+        {
+          "source": "explore:up-and-coming",
+          "rank": 95,
+          "playing": 2641
         }
       ]
     },
@@ -1580,89 +1580,24 @@
         {
           "source": "explore:top-trending",
           "rank": 95,
-          "playing": 2960
+          "playing": 1847
         },
         {
           "source": "explore:up-and-coming",
           "rank": 75,
-          "playing": 2910
+          "playing": 1829
         }
       ]
     },
     {
-      "universe_id": "10771508240",
-      "name": "[100+ Cars 🏁] Simple Drift",
-      "root_place_id": "72708474319092",
+      "universe_id": "9747855189",
+      "name": "[UPD] Highway Racing 🚗",
+      "root_place_id": "134426802645223",
       "sources": [
         {
           "source": "explore:top-trending",
           "rank": 96,
-          "playing": 1644
-        }
-      ]
-    },
-    {
-      "universe_id": "10775453729",
-      "name": "[👑] ROLL TO LOOKSMAX",
-      "root_place_id": "84986900845010",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 15,
-          "playing": 2216
-        }
-      ]
-    },
-    {
-      "universe_id": "10773416193",
-      "name": "Voxel Wars",
-      "root_place_id": "78884249003161",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 16,
-          "playing": 21112
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 58,
-          "playing": 21122
-        }
-      ]
-    },
-    {
-      "universe_id": "10774753641",
-      "name": "Silent Killer Simulator",
-      "root_place_id": "120256203702735",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 17,
-          "playing": 10990
-        }
-      ]
-    },
-    {
-      "universe_id": "10773907070",
-      "name": "RoChess!",
-      "root_place_id": "130878180532794",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 21,
-          "playing": 6409
-        }
-      ]
-    },
-    {
-      "universe_id": "10771514327",
-      "name": "[CHAPTER 2] BOBBY'S DAYCARE [HORROR]",
-      "root_place_id": "77649795876119",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 25,
-          "playing": 7004
+          "playing": 2646
         }
       ]
     },
@@ -1673,8 +1608,8 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 26,
-          "playing": 3559
+          "rank": 18,
+          "playing": 3001
         }
       ]
     },
@@ -1685,44 +1620,20 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 36,
-          "playing": 3036
+          "rank": 24,
+          "playing": 3506
         }
       ]
     },
     {
-      "universe_id": "10773926254",
-      "name": "Bloody Ragdoll Physics 🩸",
-      "root_place_id": "140431845542654",
+      "universe_id": "10773907070",
+      "name": "RoChess!",
+      "root_place_id": "130878180532794",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 40,
-          "playing": 13614
-        }
-      ]
-    },
-    {
-      "universe_id": "10775377114",
-      "name": "[🥊] Tumble Dash",
-      "root_place_id": "140059366102425",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 41,
-          "playing": 12639
-        }
-      ]
-    },
-    {
-      "universe_id": "10774580855",
-      "name": "She Is Listening.[HORROR]",
-      "root_place_id": "121518208893583",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 45,
-          "playing": 5382
+          "rank": 26,
+          "playing": 5905
         }
       ]
     },
@@ -1733,117 +1644,49 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 54,
-          "playing": 17533
+          "rank": 27,
+          "playing": 13155
         },
         {
           "source": "explore:top-playing-now",
-          "rank": 74,
-          "playing": 17533
+          "rank": 80,
+          "playing": 13155
         }
       ]
     },
     {
-      "universe_id": "10774303559",
-      "name": "Fish for Secret Animals!",
-      "root_place_id": "107192230357786",
+      "universe_id": "10771514327",
+      "name": "[CHAPTER 2] BOBBY'S DAYCARE [HORROR]",
+      "root_place_id": "77649795876119",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 56,
-          "playing": 13869
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 97,
-          "playing": 13869
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 78,
-          "playing": 13869
+          "rank": 29,
+          "playing": 6514
         }
       ]
     },
     {
-      "universe_id": "10774204862",
-      "name": "Volley Bomb",
-      "root_place_id": "98979169190595",
+      "universe_id": "10775599302",
+      "name": "Draw Your Cart!",
+      "root_place_id": "96040168895349",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 57,
-          "playing": 22304
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 53,
-          "playing": 22304
+          "rank": 37,
+          "playing": 10171
         }
       ]
     },
     {
-      "universe_id": "10772879271",
-      "name": "[🦃] 30 Floors Up",
-      "root_place_id": "124063493943486",
+      "universe_id": "10775377114",
+      "name": "[🥊] Tumble Dash",
+      "root_place_id": "140059366102425",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 58,
-          "playing": 7282
-        }
-      ]
-    },
-    {
-      "universe_id": "10776200249",
-      "name": "[UPD] Ragdoll Destruction 💥",
-      "root_place_id": "108046432046865",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 60,
-          "playing": 6509
-        }
-      ]
-    },
-    {
-      "universe_id": "10773700441",
-      "name": "Cave Diving Simulator",
-      "root_place_id": "92555404244005",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 64,
-          "playing": 2788
-        }
-      ]
-    },
-    {
-      "universe_id": "10773425091",
-      "name": "[🩹HEALTH] Ragdoll Research",
-      "root_place_id": "135264274035761",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 65,
-          "playing": 9075
-        }
-      ]
-    },
-    {
-      "universe_id": "10774071683",
-      "name": "[🐟] Fish For Sea Animals",
-      "root_place_id": "90296841634441",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 67,
-          "playing": 22222
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 54,
-          "playing": 22222
+          "rank": 38,
+          "playing": 3404
         }
       ]
     },
@@ -1854,20 +1697,8 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 68,
-          "playing": 759
-        }
-      ]
-    },
-    {
-      "universe_id": "10772543706",
-      "name": "[🛸] Sweep The Moon 🌕",
-      "root_place_id": "109576450376407",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 70,
-          "playing": 8275
+          "rank": 39,
+          "playing": 543
         }
       ]
     },
@@ -1878,8 +1709,208 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
+          "rank": 43,
+          "playing": 715
+        }
+      ]
+    },
+    {
+      "universe_id": "10774071683",
+      "name": "[🐟] Fish For Sea Animals",
+      "root_place_id": "90296841634441",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 46,
+          "playing": 27065
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 37,
+          "playing": 27065
+        }
+      ]
+    },
+    {
+      "universe_id": "10774580855",
+      "name": "She Is Listening.[HORROR]",
+      "root_place_id": "121518208893583",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 47,
+          "playing": 3637
+        }
+      ]
+    },
+    {
+      "universe_id": "10774810800",
+      "name": "Realistic Ragdoll MMA 🥊",
+      "root_place_id": "124780003623150",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 51,
+          "playing": 10999
+        }
+      ]
+    },
+    {
+      "universe_id": "10773926254",
+      "name": "Bloody Ragdoll Physics 🩸",
+      "root_place_id": "140431845542654",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 52,
+          "playing": 10262
+        }
+      ]
+    },
+    {
+      "universe_id": "10773700441",
+      "name": "Cave Diving Simulator",
+      "root_place_id": "92555404244005",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 54,
+          "playing": 2707
+        }
+      ]
+    },
+    {
+      "universe_id": "10774204862",
+      "name": "Volley Bomb",
+      "root_place_id": "98979169190595",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 55,
+          "playing": 9960
+        }
+      ]
+    },
+    {
+      "universe_id": "10774303559",
+      "name": "Fish for Secret Animals!",
+      "root_place_id": "107192230357786",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 58,
+          "playing": 14787
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 70,
+          "playing": 14787
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 77,
+          "playing": 14787
+        }
+      ]
+    },
+    {
+      "universe_id": "10773721222",
+      "name": "Knockout Legends",
+      "root_place_id": "107816398678973",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 59,
+          "playing": 2120
+        }
+      ]
+    },
+    {
+      "universe_id": "10772879271",
+      "name": "[🦃] 30 Floors Up",
+      "root_place_id": "124063493943486",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 63,
+          "playing": 5318
+        }
+      ]
+    },
+    {
+      "universe_id": "10777337522",
+      "name": "Crash Engine",
+      "root_place_id": "81268852194868",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 64,
+          "playing": 4563
+        }
+      ]
+    },
+    {
+      "universe_id": "10776778943",
+      "name": "Superpower Ragdoll Physics 🩸",
+      "root_place_id": "93605461718772",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 66,
+          "playing": 6220
+        }
+      ]
+    },
+    {
+      "universe_id": "10772543706",
+      "name": "[🛸] Sweep The Moon 🌕",
+      "root_place_id": "109576450376407",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 67,
+          "playing": 6647
+        }
+      ]
+    },
+    {
+      "universe_id": "10774676937",
+      "name": "RUN FROM THE DOGS!!",
+      "root_place_id": "84658855641517",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 69,
+          "playing": 5068
+        }
+      ]
+    },
+    {
+      "universe_id": "10771533429",
+      "name": "Stay the Night",
+      "root_place_id": "93349291960708",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 70,
+          "playing": 9521
+        }
+      ]
+    },
+    {
+      "universe_id": "10774784939",
+      "name": "[🏹] Shoot Arrows For Animals!",
+      "root_place_id": "128749725449995",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
           "rank": 74,
-          "playing": 2054
+          "playing": 26047
+        },
+        {
+          "source": "explore:top-playing-now",
+          "rank": 39,
+          "playing": 26047
         }
       ]
     },
@@ -1891,7 +1922,19 @@
         {
           "source": "explore:up-and-coming",
           "rank": 78,
-          "playing": 9754
+          "playing": 6925
+        }
+      ]
+    },
+    {
+      "universe_id": "10773836632",
+      "name": "Guess the rarest word 🦐 [2v2]",
+      "root_place_id": "95246966728635",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 79,
+          "playing": 1002
         }
       ]
     },
@@ -1902,61 +1945,8 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 79,
-          "playing": 2125
-        }
-      ]
-    },
-    {
-      "universe_id": "10773721222",
-      "name": "Knockout Legends",
-      "root_place_id": "107816398678973",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 81,
-          "playing": 2732
-        }
-      ]
-    },
-    {
-      "universe_id": "10771533429",
-      "name": "Stay the Night",
-      "root_place_id": "93349291960708",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 82,
-          "playing": 21253
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 56,
-          "playing": 21253
-        }
-      ]
-    },
-    {
-      "universe_id": "10774676937",
-      "name": "RUN FROM THE DOGS!!",
-      "root_place_id": "84658855641517",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 83,
-          "playing": 9234
-        }
-      ]
-    },
-    {
-      "universe_id": "10773186898",
-      "name": "Record on Bike",
-      "root_place_id": "93385817142139",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 84,
-          "playing": 1916
+          "rank": 80,
+          "playing": 1999
         }
       ]
     },
@@ -1967,73 +1957,20 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 85,
-          "playing": 7061
+          "rank": 82,
+          "playing": 5022
         }
       ]
     },
     {
-      "universe_id": "10774784939",
-      "name": "[🏹] Shoot Arrows For Animals!",
-      "root_place_id": "128749725449995",
+      "universe_id": "10775195570",
+      "name": "[UPDATE] Hoodcam Gun Test Place",
+      "root_place_id": "98900470638524",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 86,
-          "playing": 18805
-        },
-        {
-          "source": "explore:top-playing-now",
-          "rank": 67,
-          "playing": 18805
-        }
-      ]
-    },
-    {
-      "universe_id": "10773059991",
-      "name": "Clean The Bugs 🐜",
-      "root_place_id": "126810262789538",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 87,
-          "playing": 8785
-        }
-      ]
-    },
-    {
-      "universe_id": "10773370522",
-      "name": "[🌴GTA 6] GS5 Menu Simulator",
-      "root_place_id": "124839754585584",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 89,
-          "playing": 2975
-        }
-      ]
-    },
-    {
-      "universe_id": "10771743491",
-      "name": "South Hell [HORROR]",
-      "root_place_id": "119901987045648",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 91,
-          "playing": 1826
-        }
-      ]
-    },
-    {
-      "universe_id": "10774533985",
-      "name": " AEGIS",
-      "root_place_id": "125269738749167",
-      "sources": [
-        {
-          "source": "explore:up-and-coming",
-          "rank": 92,
-          "playing": 652
+          "rank": 84,
+          "playing": 631
         }
       ]
     },
@@ -2044,20 +1981,116 @@
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 94,
-          "playing": 1620
+          "rank": 85,
+          "playing": 856
         }
       ]
     },
     {
-      "universe_id": "10769582272",
-      "name": "Okishima:1336 [MARTIAL ARTS]",
-      "root_place_id": "86355335942235",
+      "universe_id": "10773059991",
+      "name": "Clean The Bugs 🐜",
+      "root_place_id": "126810262789538",
       "sources": [
         {
           "source": "explore:up-and-coming",
-          "rank": 95,
-          "playing": 2002
+          "rank": 86,
+          "playing": 7577
+        }
+      ]
+    },
+    {
+      "universe_id": "10773837893",
+      "name": "Play Chess!",
+      "root_place_id": "93365009198479",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 87,
+          "playing": 1136
+        }
+      ]
+    },
+    {
+      "universe_id": "10771743491",
+      "name": "South Hell [HORROR]",
+      "root_place_id": "119901987045648",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 88,
+          "playing": 1830
+        }
+      ]
+    },
+    {
+      "universe_id": "10775831798",
+      "name": "Wrap 1M Presents To Escape",
+      "root_place_id": "103928732848630",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 89,
+          "playing": 1029
+        }
+      ]
+    },
+    {
+      "universe_id": "10774734238",
+      "name": "Geometry Dash 2.2",
+      "root_place_id": "128583746271484",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 90,
+          "playing": 1624
+        }
+      ]
+    },
+    {
+      "universe_id": "10774533985",
+      "name": " AEGIS",
+      "root_place_id": "125269738749167",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 91,
+          "playing": 675
+        }
+      ]
+    },
+    {
+      "universe_id": "10773448788",
+      "name": "Kill 'Em All [CHAPTER 2]",
+      "root_place_id": "123316423799511",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 92,
+          "playing": 1719
+        }
+      ]
+    },
+    {
+      "universe_id": "10773582045",
+      "name": "(Grim Matchstick) CUPHEAD Fight!",
+      "root_place_id": "89975768879199",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 93,
+          "playing": 2672
+        }
+      ]
+    },
+    {
+      "universe_id": "10774497765",
+      "name": "[🏴‍☠️] Throw a Friend for Monsters",
+      "root_place_id": "135753683017288",
+      "sources": [
+        {
+          "source": "explore:up-and-coming",
+          "rank": 94,
+          "playing": 8364
         }
       ]
     },
@@ -2069,7 +2102,7 @@
         {
           "source": "explore:top-playing-now",
           "rank": 1,
-          "playing": 429819
+          "playing": 542901
         }
       ]
     },
@@ -2081,12 +2114,12 @@
         {
           "source": "explore:top-playing-now",
           "rank": 2,
-          "playing": 333363
+          "playing": 212785
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 17,
-          "playing": 333363
+          "playing": 212785
         }
       ]
     },
@@ -2098,12 +2131,12 @@
         {
           "source": "explore:top-playing-now",
           "rank": 3,
-          "playing": 221652
+          "playing": 190535
         },
         {
           "source": "explore:top-revisited",
           "rank": 90,
-          "playing": 221652
+          "playing": 190535
         }
       ]
     },
@@ -2115,24 +2148,12 @@
         {
           "source": "explore:top-playing-now",
           "rank": 4,
-          "playing": 197654
+          "playing": 188459
         },
         {
           "source": "explore:top-revisited",
           "rank": 49,
-          "playing": 197654
-        }
-      ]
-    },
-    {
-      "universe_id": "7326934954",
-      "name": "99 Nights in the Forest 🔦",
-      "root_place_id": "79546208627805",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 5,
-          "playing": 160378
+          "playing": 188249
         }
       ]
     },
@@ -2143,8 +2164,20 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
+          "rank": 5,
+          "playing": 144110
+        }
+      ]
+    },
+    {
+      "universe_id": "7326934954",
+      "name": "99 Nights in the Forest 🔦",
+      "root_place_id": "79546208627805",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
           "rank": 6,
-          "playing": 145398
+          "playing": 142812
         }
       ]
     },
@@ -2155,30 +2188,13 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 7,
-          "playing": 144697
+          "rank": 8,
+          "playing": 91033
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 26,
-          "playing": 144697
-        }
-      ]
-    },
-    {
-      "universe_id": "6035872082",
-      "name": "[🤑] RIVALS",
-      "root_place_id": "17625359962",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 9,
-          "playing": 119138
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 63,
-          "playing": 119977
+          "playing": 91033
         }
       ]
     },
@@ -2189,76 +2205,30 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 11,
-          "playing": 88947
+          "rank": 10,
+          "playing": 83027
         },
         {
           "source": "explore:top-revisited",
           "rank": 60,
-          "playing": 89581
+          "playing": 83027
         }
       ]
     },
     {
-      "universe_id": "3508322461",
-      "name": "[🎃] Jujutsu Shenanigans",
-      "root_place_id": "9391468976",
+      "universe_id": "6035872082",
+      "name": "[🤑] RIVALS",
+      "root_place_id": "17625359962",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 12,
-          "playing": 88557
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 69,
-          "playing": 88723
+          "rank": 11,
+          "playing": 82939
         },
         {
           "source": "explore:top-revisited",
-          "rank": 28,
-          "playing": 88557
-        }
-      ]
-    },
-    {
-      "universe_id": "5203828273",
-      "name": "[🦃SALE] Dress To Impress",
-      "root_place_id": "15101393044",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 14,
-          "playing": 76697
-        }
-      ]
-    },
-    {
-      "universe_id": "2711375305",
-      "name": "Catalog Avatar Creator",
-      "root_place_id": "7041939546",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 15,
-          "playing": 68372
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 43,
-          "playing": 68312
-        }
-      ]
-    },
-    {
-      "universe_id": "6701277882",
-      "name": "[🗝️UPD] Fish It! 🐟",
-      "root_place_id": "121864768012064",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 16,
-          "playing": 67091
+          "rank": 63,
+          "playing": 83182
         }
       ]
     },
@@ -2269,30 +2239,47 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 17,
-          "playing": 64396
+          "rank": 12,
+          "playing": 67074
         },
         {
           "source": "explore:top-revisited",
           "rank": 9,
-          "playing": 64396
+          "playing": 67074
         }
       ]
     },
     {
-      "universe_id": "5750914919",
-      "name": "Fisch 🦃 [FISCHGIVING]",
-      "root_place_id": "16732694052",
+      "universe_id": "6701277882",
+      "name": "[🗝️UPD] Fish It! 🐟",
+      "root_place_id": "121864768012064",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 18,
-          "playing": 64387
+          "rank": 13,
+          "playing": 66522
+        }
+      ]
+    },
+    {
+      "universe_id": "3508322461",
+      "name": "[🎃] Jujutsu Shenanigans",
+      "root_place_id": "9391468976",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 14,
+          "playing": 61345
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 69,
+          "playing": 61345
         },
         {
           "source": "explore:top-revisited",
-          "rank": 11,
-          "playing": 64387
+          "rank": 28,
+          "playing": 61345
         }
       ]
     },
@@ -2303,103 +2290,47 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 19,
-          "playing": 62059
+          "rank": 15,
+          "playing": 60895
         },
         {
           "source": "explore:top-revisited",
           "rank": 35,
-          "playing": 62126
+          "playing": 60895
         }
       ]
     },
     {
-      "universe_id": "7219654364",
-      "name": "[💀DUELS] Murderers VS Sheriffs",
-      "root_place_id": "135856908115931",
+      "universe_id": "5750914919",
+      "name": "Fisch 🦃 [FISCHGIVING]",
+      "root_place_id": "16732694052",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 20,
-          "playing": 59069
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 64,
-          "playing": 59069
-        }
-      ]
-    },
-    {
-      "universe_id": "10770730129",
-      "name": "Ragdoll Soccer",
-      "root_place_id": "106931373443671",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 22,
-          "playing": 51049
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 83,
-          "playing": 51317
-        }
-      ]
-    },
-    {
-      "universe_id": "3240075297",
-      "name": "Berry Avenue 🏠 RP",
-      "root_place_id": "8481844229",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 23,
-          "playing": 49793
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 68,
-          "playing": 49570
-        }
-      ]
-    },
-    {
-      "universe_id": "601130232",
-      "name": "Bee Swarm Simulator",
-      "root_place_id": "1537690962",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 24,
-          "playing": 46918
+          "rank": 16,
+          "playing": 57859
         },
         {
           "source": "explore:top-revisited",
-          "rank": 29,
-          "playing": 46760
+          "rank": 11,
+          "playing": 57859
         }
       ]
     },
     {
-      "universe_id": "6331902150",
-      "name": "Forsaken",
-      "root_place_id": "18687417158",
+      "universe_id": "2711375305",
+      "name": "Catalog Avatar Creator",
+      "root_place_id": "7041939546",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 25,
-          "playing": 46602
+          "rank": 17,
+          "playing": 57522
         },
         {
           "source": "explore:fun-with-friends",
-          "rank": 71,
-          "playing": 46750
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 72,
-          "playing": 46736
+          "rank": 43,
+          "playing": 57522
         }
       ]
     },
@@ -2410,25 +2341,37 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 26,
-          "playing": 45118
+          "rank": 19,
+          "playing": 50657
         }
       ]
     },
     {
-      "universe_id": "6931042565",
-      "name": "[UPD] Volleyball Legends",
-      "root_place_id": "73956553001240",
+      "universe_id": "5203828273",
+      "name": "[🦃SALE] Dress To Impress",
+      "root_place_id": "15101393044",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 27,
-          "playing": 42251
+          "rank": 20,
+          "playing": 46705
+        }
+      ]
+    },
+    {
+      "universe_id": "601130232",
+      "name": "Bee Swarm Simulator",
+      "root_place_id": "1537690962",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 21,
+          "playing": 44285
         },
         {
           "source": "explore:top-revisited",
-          "rank": 57,
-          "playing": 42246
+          "rank": 29,
+          "playing": 44285
         }
       ]
     },
@@ -2439,25 +2382,13 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 28,
-          "playing": 41219
+          "rank": 22,
+          "playing": 43739
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 20,
-          "playing": 41219
-        }
-      ]
-    },
-    {
-      "universe_id": "7709344486",
-      "name": "[💀] Steal a Brainrot",
-      "root_place_id": "109983668079237",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 30,
-          "playing": 40867
+          "playing": 43739
         }
       ]
     },
@@ -2468,42 +2399,13 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 31,
-          "playing": 40364
+          "rank": 24,
+          "playing": 37386
         },
         {
           "source": "explore:top-revisited",
           "rank": 86,
-          "playing": 40197
-        }
-      ]
-    },
-    {
-      "universe_id": "4839802560",
-      "name": "LifeTogether 🏠 RP [💃🏻 STEPS]",
-      "root_place_id": "13967668166",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 32,
-          "playing": 37880
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 23,
-          "playing": 37880
-        }
-      ]
-    },
-    {
-      "universe_id": "3808081382",
-      "name": "[HALLOWEEN] The Strongest Battlegrounds",
-      "root_place_id": "10449761463",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 34,
-          "playing": 35520
+          "playing": 37537
         }
       ]
     },
@@ -2514,71 +2416,64 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 35,
-          "playing": 34865
+          "rank": 25,
+          "playing": 34844
         },
         {
           "source": "explore:top-revisited",
           "rank": 25,
-          "playing": 34865
+          "playing": 34844
         }
       ]
     },
     {
-      "universe_id": "8172250815",
-      "name": "[UPD 1] STAND OUT",
-      "root_place_id": "128828638194450",
+      "universe_id": "3808081382",
+      "name": "[HALLOWEEN] The Strongest Battlegrounds",
+      "root_place_id": "10449761463",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 36,
-          "playing": 34729
+          "rank": 26,
+          "playing": 33308
         }
       ]
     },
     {
-      "universe_id": "10155360168",
-      "name": "Illegal Soccer",
-      "root_place_id": "126987974021910",
+      "universe_id": "6331902150",
+      "name": "Forsaken",
+      "root_place_id": "18687417158",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 38,
-          "playing": 31172
-        }
-      ]
-    },
-    {
-      "universe_id": "10768905764",
-      "name": "Build Your World! 🔨",
-      "root_place_id": "80392427444524",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 40,
-          "playing": 27808
+          "rank": 27,
+          "playing": 31766
         },
         {
           "source": "explore:fun-with-friends",
-          "rank": 75,
-          "playing": 27808
+          "rank": 71,
+          "playing": 31932
+        },
+        {
+          "source": "explore:top-revisited",
+          "rank": 72,
+          "playing": 31932
         }
       ]
     },
     {
-      "universe_id": "372226183",
-      "name": "🎃Flee the Facility🍁",
-      "root_place_id": "893973440",
+      "universe_id": "6931042565",
+      "name": "[UPD] Volleyball Legends",
+      "root_place_id": "73956553001240",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 41,
-          "playing": 27048
+          "rank": 29,
+          "playing": 31582
         },
         {
-          "source": "explore:fun-with-friends",
-          "rank": 34,
-          "playing": 27049
+          "source": "explore:top-revisited",
+          "rank": 57,
+          "playing": 31582
         }
       ]
     },
@@ -2589,30 +2484,69 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 44,
-          "playing": 25066
+          "rank": 30,
+          "playing": 31212
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 33,
-          "playing": 25066
+          "playing": 31212
         },
         {
           "source": "explore:top-revisited",
           "rank": 80,
-          "playing": 25066
+          "playing": 31212
         }
       ]
     },
     {
-      "universe_id": "7436755782",
-      "name": "[⚖️] Grow a Garden 🌶️",
-      "root_place_id": "126884695634066",
+      "universe_id": "10770730129",
+      "name": "Ragdoll Soccer",
+      "root_place_id": "106931373443671",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 45,
-          "playing": 24670
+          "rank": 31,
+          "playing": 31020
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 82,
+          "playing": 31472
+        }
+      ]
+    },
+    {
+      "universe_id": "7219654364",
+      "name": "[💀DUELS] Murderers VS Sheriffs",
+      "root_place_id": "135856908115931",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 32,
+          "playing": 30646
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 64,
+          "playing": 30646
+        }
+      ]
+    },
+    {
+      "universe_id": "3240075297",
+      "name": "Berry Avenue 🏠 RP",
+      "root_place_id": "8481844229",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 33,
+          "playing": 28686
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 68,
+          "playing": 29202
         }
       ]
     },
@@ -2623,13 +2557,13 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 46,
-          "playing": 24489
+          "rank": 35,
+          "playing": 28436
         },
         {
           "source": "explore:top-revisited",
           "rank": 62,
-          "playing": 24625
+          "playing": 28436
         }
       ]
     },
@@ -2640,8 +2574,49 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 47,
-          "playing": 24222
+          "rank": 36,
+          "playing": 27495
+        }
+      ]
+    },
+    {
+      "universe_id": "4839802560",
+      "name": "LifeTogether 🏠 RP [💃🏻 STEPS]",
+      "root_place_id": "13967668166",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 40,
+          "playing": 26004
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 23,
+          "playing": 26004
+        }
+      ]
+    },
+    {
+      "universe_id": "7709344486",
+      "name": "[💀] Steal a Brainrot",
+      "root_place_id": "109983668079237",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 41,
+          "playing": 25416
+        }
+      ]
+    },
+    {
+      "universe_id": "8172250815",
+      "name": "[UPD 1] STAND OUT",
+      "root_place_id": "128828638194450",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 42,
+          "playing": 24961
         }
       ]
     },
@@ -2652,64 +2627,42 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 48,
-          "playing": 24059
+          "rank": 43,
+          "playing": 24376
         },
         {
           "source": "explore:top-revisited",
           "rank": 67,
-          "playing": 24059
+          "playing": 24307
         }
       ]
     },
     {
-      "universe_id": "1831550657",
-      "name": "🦖 Creatures of Sonaria ✨ Survive Kaiju Animals",
-      "root_place_id": "5233782396",
+      "universe_id": "10772066587",
+      "name": "NIGHT WITH OPAH",
+      "root_place_id": "91246277860636",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 49,
-          "playing": 23808
+          "rank": 44,
+          "playing": 23681
+        }
+      ]
+    },
+    {
+      "universe_id": "10768905764",
+      "name": "Build Your World! 🔨",
+      "root_place_id": "80392427444524",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 45,
+          "playing": 21795
         },
         {
           "source": "explore:fun-with-friends",
-          "rank": 57,
-          "playing": 23680
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 32,
-          "playing": 23808
-        }
-      ]
-    },
-    {
-      "universe_id": "2619619496",
-      "name": "[🦃Cornucopia] BedWars",
-      "root_place_id": "6872265039",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 50,
-          "playing": 23643
-        },
-        {
-          "source": "explore:top-revisited",
-          "rank": 58,
-          "playing": 23699
-        }
-      ]
-    },
-    {
-      "universe_id": "10769634720",
-      "name": "PINKIE PROMISE [CH 2]",
-      "root_place_id": "75815532269840",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 51,
-          "playing": 23440
+          "rank": 74,
+          "playing": 21795
         }
       ]
     },
@@ -2720,61 +2673,49 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 52,
-          "playing": 23407
+          "rank": 48,
+          "playing": 20735
         }
       ]
     },
     {
-      "universe_id": "10770703729",
-      "name": "🎃 KRN: Crosshair",
-      "root_place_id": "129382295065915",
+      "universe_id": "10155360168",
+      "name": "Illegal Soccer",
+      "root_place_id": "126987974021910",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 55,
-          "playing": 21575
+          "rank": 49,
+          "playing": 20606
+        }
+      ]
+    },
+    {
+      "universe_id": "10773416193",
+      "name": "Voxel Wars",
+      "root_place_id": "78884249003161",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 50,
+          "playing": 19579
+        }
+      ]
+    },
+    {
+      "universe_id": "2619619496",
+      "name": "[🦃Cornucopia] BedWars",
+      "root_place_id": "6872265039",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 51,
+          "playing": 19146
         },
         {
-          "source": "explore:fun-with-friends",
-          "rank": 74,
-          "playing": 21575
-        }
-      ]
-    },
-    {
-      "universe_id": "88070565",
-      "name": "[📱] Welcome to Bloxburg ",
-      "root_place_id": "185655149",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 57,
-          "playing": 21199
-        }
-      ]
-    },
-    {
-      "universe_id": "8178086002",
-      "name": "[UPD] Lethal Ape Experience",
-      "root_place_id": "117713779364528",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 59,
-          "playing": 20984
-        }
-      ]
-    },
-    {
-      "universe_id": "10767012496",
-      "name": "Turbo Soccer [BETA]",
-      "root_place_id": "101880234193261",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 60,
-          "playing": 20354
+          "source": "explore:top-revisited",
+          "rank": 58,
+          "playing": 19146
         }
       ]
     },
@@ -2785,37 +2726,83 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 61,
-          "playing": 20264
+          "rank": 52,
+          "playing": 18776
         },
         {
           "source": "explore:fun-with-friends",
           "rank": 24,
-          "playing": 20264
+          "playing": 18785
         }
       ]
     },
     {
-      "universe_id": "10733617110",
-      "name": "[BE THE MONSTER] Fatal Baboons",
-      "root_place_id": "93660722909304",
+      "universe_id": "574085635",
+      "name": "Escape Da Cave!",
+      "root_place_id": "1445389341",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 62,
-          "playing": 19978
+          "rank": 53,
+          "playing": 18084
         }
       ]
     },
     {
-      "universe_id": "10769671316",
-      "name": "[🦧 BOSS] Survive Your Ideas",
-      "root_place_id": "77900175935766",
+      "universe_id": "1831550657",
+      "name": "🦖 Creatures of Sonaria ✨ Survive Kaiju Animals",
+      "root_place_id": "5233782396",
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 63,
-          "playing": 19316
+          "rank": 54,
+          "playing": 18079
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 57,
+          "playing": 18079
+        },
+        {
+          "source": "explore:top-revisited",
+          "rank": 32,
+          "playing": 18079
+        }
+      ]
+    },
+    {
+      "universe_id": "8178086002",
+      "name": "[UPD] Lethal Ape Experience",
+      "root_place_id": "117713779364528",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 55,
+          "playing": 18015
+        }
+      ]
+    },
+    {
+      "universe_id": "10769851460",
+      "name": "[🏦HEISTS] Criminal Simulator 💰",
+      "root_place_id": "83048653078891",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 56,
+          "playing": 17917
+        }
+      ]
+    },
+    {
+      "universe_id": "184199275",
+      "name": "[🦃EVENT] NFL Universe Football",
+      "root_place_id": "2338325648",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 57,
+          "playing": 17739
         }
       ]
     },
@@ -2826,8 +2813,61 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
+          "rank": 58,
+          "playing": 17329
+        }
+      ]
+    },
+    {
+      "universe_id": "88070565",
+      "name": "[📱] Welcome to Bloxburg ",
+      "root_place_id": "185655149",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 59,
+          "playing": 17117
+        }
+      ]
+    },
+    {
+      "universe_id": "10764627709",
+      "name": "[🍔] Huss Valley",
+      "root_place_id": "107535308163741",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 60,
+          "playing": 17038
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 65,
+          "playing": 17038
+        }
+      ]
+    },
+    {
+      "universe_id": "10701622575",
+      "name": "Steal an Anime Pack",
+      "root_place_id": "133151378618377",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 62,
+          "playing": 16519
+        }
+      ]
+    },
+    {
+      "universe_id": "5995470825",
+      "name": "[🔥THANKSGIVING] Hypershot",
+      "root_place_id": "17516596118",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
           "rank": 64,
-          "playing": 19218
+          "playing": 15682
         }
       ]
     },
@@ -2839,286 +2879,7 @@
         {
           "source": "explore:top-playing-now",
           "rank": 65,
-          "playing": 19031
-        }
-      ]
-    },
-    {
-      "universe_id": "10764627709",
-      "name": "[🍔] Huss Valley",
-      "root_place_id": "107535308163741",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 66,
-          "playing": 18935
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 65,
-          "playing": 18954
-        }
-      ]
-    },
-    {
-      "universe_id": "7018190066",
-      "name": "Dead Rails ",
-      "root_place_id": "116495829188952",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 68,
-          "playing": 18356
-        }
-      ]
-    },
-    {
-      "universe_id": "10769420234",
-      "name": "MOUSE",
-      "root_place_id": "81688312343760",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 69,
-          "playing": 18239
-        }
-      ]
-    },
-    {
-      "universe_id": "574085635",
-      "name": "Escape Da Cave!",
-      "root_place_id": "1445389341",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 70,
-          "playing": 18100
-        }
-      ]
-    },
-    {
-      "universe_id": "10775599302",
-      "name": "Draw Your Cart!",
-      "root_place_id": "96040168895349",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 71,
-          "playing": 17982
-        }
-      ]
-    },
-    {
-      "universe_id": "10769851460",
-      "name": "[🏝️ISLAND] Criminal Simulator 💰",
-      "root_place_id": "83048653078891",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 73,
-          "playing": 17810
-        }
-      ]
-    },
-    {
-      "universe_id": "5995470825",
-      "name": "[🔥THANKSGIVING] Hypershot",
-      "root_place_id": "17516596118",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 75,
-          "playing": 17359
-        }
-      ]
-    },
-    {
-      "universe_id": "184199275",
-      "name": "[🦃EVENT] NFL Universe Football",
-      "root_place_id": "2338325648",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 76,
-          "playing": 17341
-        }
-      ]
-    },
-    {
-      "universe_id": "6765805766",
-      "name": "BlockSpin 🔪 ",
-      "root_place_id": "104715542330896",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 77,
-          "playing": 17216
-        }
-      ]
-    },
-    {
-      "universe_id": "7554119808",
-      "name": "🛍️ My Avatar!",
-      "root_place_id": "75387700043737",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 78,
-          "playing": 16778
-        }
-      ]
-    },
-    {
-      "universe_id": "10701622575",
-      "name": "Steal an Anime Pack",
-      "root_place_id": "133151378618377",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 81,
-          "playing": 15851
-        }
-      ]
-    },
-    {
-      "universe_id": "10771881861",
-      "name": "[BADGER🦡] FERAL 🐺 Animal Survival",
-      "root_place_id": "108901361810209",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 83,
-          "playing": 15502
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 84,
-          "playing": 15502
-        }
-      ]
-    },
-    {
-      "universe_id": "7671049560",
-      "name": "The Forge [🪽x👹]",
-      "root_place_id": "76558904092080",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 84,
-          "playing": 15499
-        }
-      ]
-    },
-    {
-      "universe_id": "6774320049",
-      "name": "Dubai 🏡 RP [Pets! 🐶]",
-      "root_place_id": "122485613019196",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 86,
-          "playing": 15347
-        }
-      ]
-    },
-    {
-      "universe_id": "10775697826",
-      "name": "Illegal Bikes",
-      "root_place_id": "104094931084106",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 88,
-          "playing": 14929
-        }
-      ]
-    },
-    {
-      "universe_id": "4723764956",
-      "name": "🎥My Movie",
-      "root_place_id": "13600218266",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 89,
-          "playing": 14876
-        }
-      ]
-    },
-    {
-      "universe_id": "4949420752",
-      "name": "Realistic Street Soccer",
-      "root_place_id": "14315258385",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 90,
-          "playing": 14834
-        }
-      ]
-    },
-    {
-      "universe_id": "5595353122",
-      "name": "[🦃] Project Slayers 2",
-      "root_place_id": "16205713724",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 92,
-          "playing": 14415
-        }
-      ]
-    },
-    {
-      "universe_id": "2936053166",
-      "name": "[🦑] Squid Game X",
-      "root_place_id": "7554888362",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 93,
-          "playing": 14271
-        }
-      ]
-    },
-    {
-      "universe_id": "4777817887",
-      "name": "Blade Ball",
-      "root_place_id": "13772394625",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 94,
-          "playing": 14222
-        }
-      ]
-    },
-    {
-      "universe_id": "2440500124",
-      "name": "DOORS 👁️",
-      "root_place_id": "6516141723",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 95,
-          "playing": 13916
-        }
-      ]
-    },
-    {
-      "universe_id": "6521100398",
-      "name": "Dreamville 🏡 RP [Pets! 😺]",
-      "root_place_id": "74395953411817",
-      "sources": [
-        {
-          "source": "explore:top-playing-now",
-          "rank": 96,
-          "playing": 13903
-        },
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 8,
-          "playing": 13903
+          "playing": 15530
         }
       ]
     },
@@ -3129,13 +2890,302 @@
       "sources": [
         {
           "source": "explore:top-playing-now",
-          "rank": 98,
-          "playing": 13721
+          "rank": 66,
+          "playing": 15339
         },
         {
           "source": "explore:top-revisited",
           "rank": 91,
-          "playing": 13721
+          "playing": 15405
+        }
+      ]
+    },
+    {
+      "universe_id": "7436755782",
+      "name": "[⚖️] Grow a Garden 🌶️",
+      "root_place_id": "126884695634066",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 67,
+          "playing": 15124
+        }
+      ]
+    },
+    {
+      "universe_id": "372226183",
+      "name": "🎃Flee the Facility🍁",
+      "root_place_id": "893973440",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 69,
+          "playing": 14921
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 34,
+          "playing": 15260
+        }
+      ]
+    },
+    {
+      "universe_id": "10769671316",
+      "name": "[🦧 BOSS] Survive Your Ideas",
+      "root_place_id": "77900175935766",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 72,
+          "playing": 14523
+        }
+      ]
+    },
+    {
+      "universe_id": "7671049560",
+      "name": "The Forge [🪽x👹]",
+      "root_place_id": "76558904092080",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 74,
+          "playing": 14019
+        }
+      ]
+    },
+    {
+      "universe_id": "7554119808",
+      "name": "🛍️ My Avatar!",
+      "root_place_id": "75387700043737",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 75,
+          "playing": 13818
+        }
+      ]
+    },
+    {
+      "universe_id": "9167377564",
+      "name": "100 Days at Sea ",
+      "root_place_id": "70411440483149",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 76,
+          "playing": 13756
+        }
+      ]
+    },
+    {
+      "universe_id": "10733617110",
+      "name": "[BE THE MONSTER] Fatal Baboons",
+      "root_place_id": "93660722909304",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 77,
+          "playing": 13316
+        }
+      ]
+    },
+    {
+      "universe_id": "9978329815",
+      "name": "Mukbang Game [Testing]🍚🏮!",
+      "root_place_id": "74188431054457",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 79,
+          "playing": 13172
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 61,
+          "playing": 13172
+        }
+      ]
+    },
+    {
+      "universe_id": "6765805766",
+      "name": "BlockSpin 🔪 ",
+      "root_place_id": "104715542330896",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 81,
+          "playing": 12906
+        }
+      ]
+    },
+    {
+      "universe_id": "10638886777",
+      "name": "[🦃] 🧈 Stack A Butter Squishy [ASMR]",
+      "root_place_id": "80959592833753",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 82,
+          "playing": 12830
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 56,
+          "playing": 12830
+        }
+      ]
+    },
+    {
+      "universe_id": "10772946647",
+      "name": "Do Not Stop.",
+      "root_place_id": "116779912472448",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 84,
+          "playing": 12553
+        }
+      ]
+    },
+    {
+      "universe_id": "2936053166",
+      "name": "[🦑] Squid Game X",
+      "root_place_id": "7554888362",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 86,
+          "playing": 12359
+        }
+      ]
+    },
+    {
+      "universe_id": "7018190066",
+      "name": "Dead Rails ",
+      "root_place_id": "116495829188952",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 87,
+          "playing": 12264
+        }
+      ]
+    },
+    {
+      "universe_id": "10740316645",
+      "name": "⛏️ My Anime Mine",
+      "root_place_id": "79389059854988",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 89,
+          "playing": 12120
+        }
+      ]
+    },
+    {
+      "universe_id": "10772281976",
+      "name": " [THROWING DISC!] Unstable SMP FFA",
+      "root_place_id": "76870565041704",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 90,
+          "playing": 12113
+        }
+      ]
+    },
+    {
+      "universe_id": "10771881861",
+      "name": "[BADGER🦡] FERAL 🐺 Animal Survival",
+      "root_place_id": "108901361810209",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 91,
+          "playing": 12048
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 83,
+          "playing": 12048
+        }
+      ]
+    },
+    {
+      "universe_id": "4777817887",
+      "name": "Blade Ball",
+      "root_place_id": "13772394625",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 92,
+          "playing": 11778
+        }
+      ]
+    },
+    {
+      "universe_id": "5595353122",
+      "name": "[🎃UPD + 🦃] Project Slayers 2",
+      "root_place_id": "16205713724",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 93,
+          "playing": 11651
+        }
+      ]
+    },
+    {
+      "universe_id": "10771053183",
+      "name": "[🐟] Net a Fish!",
+      "root_place_id": "93898234979111",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 95,
+          "playing": 11358
+        }
+      ]
+    },
+    {
+      "universe_id": "10222476236",
+      "name": "🎀 Catalog Avatar Runway",
+      "root_place_id": "97577741629233",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 96,
+          "playing": 11304
+        },
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 76,
+          "playing": 11304
+        }
+      ]
+    },
+    {
+      "universe_id": "10769420234",
+      "name": "MOUSE",
+      "root_place_id": "81688312343760",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 97,
+          "playing": 11235
+        }
+      ]
+    },
+    {
+      "universe_id": "703124385",
+      "name": "Tower of Hell",
+      "root_place_id": "1962086868",
+      "sources": [
+        {
+          "source": "explore:top-playing-now",
+          "rank": 98,
+          "playing": 11010
         }
       ]
     },
@@ -3147,12 +3197,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 1,
-          "playing": 2865
+          "playing": 2745
         },
         {
           "source": "explore:top-revisited",
           "rank": 21,
-          "playing": 2865
+          "playing": 2745
         }
       ]
     },
@@ -3164,7 +3214,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 2,
-          "playing": 3844
+          "playing": 4810
         }
       ]
     },
@@ -3176,7 +3226,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 3,
-          "playing": 8810
+          "playing": 7409
         }
       ]
     },
@@ -3188,7 +3238,19 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 7,
-          "playing": 2406
+          "playing": 2491
+        }
+      ]
+    },
+    {
+      "universe_id": "6521100398",
+      "name": "Dreamville 🏡 RP [Pets! 😺]",
+      "root_place_id": "74395953411817",
+      "sources": [
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 8,
+          "playing": 8668
         }
       ]
     },
@@ -3200,7 +3262,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 9,
-          "playing": 3330
+          "playing": 3368
         }
       ]
     },
@@ -3212,7 +3274,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 10,
-          "playing": 3184
+          "playing": 3105
         }
       ]
     },
@@ -3224,12 +3286,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 11,
-          "playing": 1512
+          "playing": 1469
         },
         {
           "source": "explore:top-revisited",
           "rank": 26,
-          "playing": 1512
+          "playing": 1469
         }
       ]
     },
@@ -3241,7 +3303,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 12,
-          "playing": 2787
+          "playing": 2785
         }
       ]
     },
@@ -3253,7 +3315,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 13,
-          "playing": 3417
+          "playing": 2975
         }
       ]
     },
@@ -3265,12 +3327,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 14,
-          "playing": 10054
+          "playing": 10519
         },
         {
           "source": "explore:top-revisited",
           "rank": 87,
-          "playing": 10054
+          "playing": 10519
         }
       ]
     },
@@ -3282,12 +3344,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 15,
-          "playing": 5895
+          "playing": 5542
         },
         {
           "source": "explore:top-revisited",
           "rank": 23,
-          "playing": 5898
+          "playing": 5542
         }
       ]
     },
@@ -3299,7 +3361,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 16,
-          "playing": 7888
+          "playing": 6286
         }
       ]
     },
@@ -3311,7 +3373,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 18,
-          "playing": 1183
+          "playing": 877
         }
       ]
     },
@@ -3323,7 +3385,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 19,
-          "playing": 5719
+          "playing": 6069
         }
       ]
     },
@@ -3335,19 +3397,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 21,
-          "playing": 2390
-        }
-      ]
-    },
-    {
-      "universe_id": "10747710159",
-      "name": "[💬] Word Battle!",
-      "root_place_id": "74300432420573",
-      "sources": [
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 22,
-          "playing": 6854
+          "playing": 1630
         }
       ]
     },
@@ -3359,12 +3409,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 25,
-          "playing": 1716
+          "playing": 1569
         },
         {
           "source": "explore:top-revisited",
           "rank": 78,
-          "playing": 1716
+          "playing": 1569
         }
       ]
     },
@@ -3376,7 +3426,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 27,
-          "playing": 1654
+          "playing": 1503
         }
       ]
     },
@@ -3388,7 +3438,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 28,
-          "playing": 6583
+          "playing": 4445
         }
       ]
     },
@@ -3400,7 +3450,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 29,
-          "playing": 542
+          "playing": 407
         }
       ]
     },
@@ -3412,12 +3462,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 31,
-          "playing": 8063
+          "playing": 7908
         },
         {
           "source": "explore:top-revisited",
           "rank": 33,
-          "playing": 8062
+          "playing": 7886
         }
       ]
     },
@@ -3429,12 +3479,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 32,
-          "playing": 6970
+          "playing": 4074
         },
         {
           "source": "explore:top-revisited",
           "rank": 39,
-          "playing": 6970
+          "playing": 4171
         }
       ]
     },
@@ -3446,12 +3496,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 35,
-          "playing": 1182
+          "playing": 1108
         },
         {
           "source": "explore:top-revisited",
           "rank": 74,
-          "playing": 1182
+          "playing": 1108
         }
       ]
     },
@@ -3463,7 +3513,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 36,
-          "playing": 4716
+          "playing": 3942
         }
       ]
     },
@@ -3475,7 +3525,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 37,
-          "playing": 8995
+          "playing": 6824
         }
       ]
     },
@@ -3487,7 +3537,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 38,
-          "playing": 1948
+          "playing": 2185
         }
       ]
     },
@@ -3499,12 +3549,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 39,
-          "playing": 7983
+          "playing": 4986
         },
         {
           "source": "explore:top-revisited",
           "rank": 20,
-          "playing": 7983
+          "playing": 4986
         }
       ]
     },
@@ -3516,7 +3566,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 40,
-          "playing": 5593
+          "playing": 3808
         }
       ]
     },
@@ -3528,12 +3578,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 41,
-          "playing": 11434
+          "playing": 7610
         },
         {
           "source": "explore:top-revisited",
           "rank": 8,
-          "playing": 11434
+          "playing": 7610
         }
       ]
     },
@@ -3545,7 +3595,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 42,
-          "playing": 1881
+          "playing": 1722
         }
       ]
     },
@@ -3557,7 +3607,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 44,
-          "playing": 1362
+          "playing": 993
         }
       ]
     },
@@ -3569,7 +3619,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 45,
-          "playing": 1895
+          "playing": 1651
         }
       ]
     },
@@ -3581,7 +3631,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 46,
-          "playing": 1733
+          "playing": 1551
         }
       ]
     },
@@ -3593,12 +3643,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 47,
-          "playing": 3126
+          "playing": 3129
         },
         {
           "source": "explore:top-revisited",
           "rank": 37,
-          "playing": 3160
+          "playing": 3129
         }
       ]
     },
@@ -3610,24 +3660,24 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 48,
-          "playing": 1409
+          "playing": 1143
         },
         {
           "source": "explore:top-revisited",
           "rank": 2,
-          "playing": 1409
+          "playing": 1143
         }
       ]
     },
     {
       "universe_id": "6749060816",
-      "name": "Asylum Life 🔊",
+      "name": "[🦃] Asylum Life 🔊",
       "root_place_id": "132352755769957",
       "sources": [
         {
           "source": "explore:fun-with-friends",
           "rank": 49,
-          "playing": 4353
+          "playing": 4633
         }
       ]
     },
@@ -3639,12 +3689,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 50,
-          "playing": 6244
+          "playing": 4846
         },
         {
           "source": "explore:top-revisited",
           "rank": 17,
-          "playing": 6244
+          "playing": 4846
         }
       ]
     },
@@ -3656,7 +3706,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 51,
-          "playing": 1468
+          "playing": 1282
         }
       ]
     },
@@ -3668,7 +3718,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 52,
-          "playing": 5020
+          "playing": 5848
         }
       ]
     },
@@ -3680,7 +3730,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 53,
-          "playing": 3709
+          "playing": 3114
         }
       ]
     },
@@ -3692,19 +3742,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 54,
-          "playing": 1408
-        }
-      ]
-    },
-    {
-      "universe_id": "10638886777",
-      "name": "[🦃] 🧈 Stack A Butter Squishy [ASMR]",
-      "root_place_id": "80959592833753",
-      "sources": [
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 56,
-          "playing": 12430
+          "playing": 1001
         }
       ]
     },
@@ -3716,7 +3754,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 58,
-          "playing": 10311
+          "playing": 7244
         }
       ]
     },
@@ -3728,7 +3766,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 59,
-          "playing": 7787
+          "playing": 7363
         }
       ]
     },
@@ -3740,19 +3778,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 60,
-          "playing": 1417
-        }
-      ]
-    },
-    {
-      "universe_id": "9978329815",
-      "name": "Mukbang Game [Testing]🍚🏮!",
-      "root_place_id": "74188431054457",
-      "sources": [
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 61,
-          "playing": 12617
+          "playing": 1309
         }
       ]
     },
@@ -3764,7 +3790,19 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 66,
-          "playing": 1594
+          "playing": 1393
+        }
+      ]
+    },
+    {
+      "universe_id": "245662005",
+      "name": "Jailbreak ⛓️‍💥",
+      "root_place_id": "606849621",
+      "sources": [
+        {
+          "source": "explore:fun-with-friends",
+          "rank": 67,
+          "playing": 4802
         }
       ]
     },
@@ -3776,7 +3814,7 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 70,
-          "playing": 1677
+          "playing": 1625
         }
       ]
     },
@@ -3788,12 +3826,12 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 72,
-          "playing": 4412
+          "playing": 3368
         },
         {
           "source": "explore:top-revisited",
           "rank": 7,
-          "playing": 4412
+          "playing": 3368
         }
       ]
     },
@@ -3805,31 +3843,19 @@
         {
           "source": "explore:fun-with-friends",
           "rank": 73,
-          "playing": 4790
+          "playing": 3183
         }
       ]
     },
     {
       "universe_id": "10769957062",
-      "name": "Bug Evolution [🕸️]",
+      "name": "Bug Evolution [🦃]",
       "root_place_id": "70650894743738",
       "sources": [
         {
           "source": "explore:fun-with-friends",
-          "rank": 76,
-          "playing": 2771
-        }
-      ]
-    },
-    {
-      "universe_id": "10222476236",
-      "name": "🎀 Catalog Avatar Runway",
-      "root_place_id": "97577741629233",
-      "sources": [
-        {
-          "source": "explore:fun-with-friends",
-          "rank": 77,
-          "playing": 13074
+          "rank": 75,
+          "playing": 3202
         }
       ]
     },
@@ -3840,8 +3866,8 @@
       "sources": [
         {
           "source": "explore:fun-with-friends",
-          "rank": 79,
-          "playing": 1752
+          "rank": 78,
+          "playing": 1658
         }
       ]
     },
@@ -3852,13 +3878,13 @@
       "sources": [
         {
           "source": "explore:fun-with-friends",
-          "rank": 81,
-          "playing": 894
+          "rank": 80,
+          "playing": 780
         },
         {
           "source": "explore:top-revisited",
           "rank": 75,
-          "playing": 894
+          "playing": 766
         }
       ]
     },
@@ -3869,8 +3895,8 @@
       "sources": [
         {
           "source": "explore:fun-with-friends",
-          "rank": 82,
-          "playing": 4632
+          "rank": 81,
+          "playing": 4532
         }
       ]
     },
@@ -3881,8 +3907,8 @@
       "sources": [
         {
           "source": "explore:fun-with-friends",
-          "rank": 85,
-          "playing": 3496
+          "rank": 84,
+          "playing": 3960
         }
       ]
     },
@@ -3894,7 +3920,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 1,
-          "playing": 2261
+          "playing": 1893
         }
       ]
     },
@@ -3906,7 +3932,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 4,
-          "playing": 125
+          "playing": 245
         }
       ]
     },
@@ -3918,7 +3944,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 5,
-          "playing": 1463
+          "playing": 984
         }
       ]
     },
@@ -3930,19 +3956,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 6,
-          "playing": 628
-        }
-      ]
-    },
-    {
-      "universe_id": "3541611379",
-      "name": "[🎉3 YEARS] Tower Defense X: BETA",
-      "root_place_id": "9503261072",
-      "sources": [
-        {
-          "source": "explore:top-revisited",
-          "rank": 10,
-          "playing": 3799
+          "playing": 559
         }
       ]
     },
@@ -3954,7 +3968,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 12,
-          "playing": 1375
+          "playing": 858
         }
       ]
     },
@@ -3966,7 +3980,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 13,
-          "playing": 3770
+          "playing": 2952
         }
       ]
     },
@@ -3978,7 +3992,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 14,
-          "playing": 5647
+          "playing": 5410
         }
       ]
     },
@@ -3990,7 +4004,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 15,
-          "playing": 10767
+          "playing": 10965
         }
       ]
     },
@@ -4002,7 +4016,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 18,
-          "playing": 1249
+          "playing": 1183
         }
       ]
     },
@@ -4014,7 +4028,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 19,
-          "playing": 1779
+          "playing": 1714
         }
       ]
     },
@@ -4026,7 +4040,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 22,
-          "playing": 1450
+          "playing": 1280
         }
       ]
     },
@@ -4038,7 +4052,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 24,
-          "playing": 276
+          "playing": 194
         }
       ]
     },
@@ -4050,7 +4064,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 27,
-          "playing": 1073
+          "playing": 1248
         }
       ]
     },
@@ -4062,7 +4076,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 30,
-          "playing": 600
+          "playing": 416
         }
       ]
     },
@@ -4074,7 +4088,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 31,
-          "playing": 1979
+          "playing": 1732
         }
       ]
     },
@@ -4086,7 +4100,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 34,
-          "playing": 334
+          "playing": 245
         }
       ]
     },
@@ -4098,7 +4112,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 36,
-          "playing": 264
+          "playing": 189
         }
       ]
     },
@@ -4110,7 +4124,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 38,
-          "playing": 623
+          "playing": 390
         }
       ]
     },
@@ -4122,7 +4136,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 40,
-          "playing": 482
+          "playing": 688
         }
       ]
     },
@@ -4134,7 +4148,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 41,
-          "playing": 2037
+          "playing": 2636
         }
       ]
     },
@@ -4146,7 +4160,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 42,
-          "playing": 4906
+          "playing": 4664
         }
       ]
     },
@@ -4158,19 +4172,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 43,
-          "playing": 3373
-        }
-      ]
-    },
-    {
-      "universe_id": "8524572339",
-      "name": "bridger: WESTERN (CLERIC)",
-      "root_place_id": "99449877692519",
-      "sources": [
-        {
-          "source": "explore:top-revisited",
-          "rank": 44,
-          "playing": 2330
+          "playing": 1671
         }
       ]
     },
@@ -4182,7 +4184,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 45,
-          "playing": 2109
+          "playing": 1774
         }
       ]
     },
@@ -4194,7 +4196,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 46,
-          "playing": 490
+          "playing": 321
         }
       ]
     },
@@ -4206,7 +4208,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 47,
-          "playing": 1939
+          "playing": 1160
         }
       ]
     },
@@ -4218,7 +4220,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 48,
-          "playing": 456
+          "playing": 298
         }
       ]
     },
@@ -4230,7 +4232,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 50,
-          "playing": 434
+          "playing": 379
         }
       ]
     },
@@ -4242,7 +4244,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 51,
-          "playing": 6420
+          "playing": 6088
         }
       ]
     },
@@ -4254,7 +4256,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 52,
-          "playing": 1222
+          "playing": 1155
         }
       ]
     },
@@ -4266,7 +4268,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 53,
-          "playing": 1219
+          "playing": 1194
         }
       ]
     },
@@ -4278,7 +4280,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 54,
-          "playing": 376
+          "playing": 270
         }
       ]
     },
@@ -4290,7 +4292,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 55,
-          "playing": 731
+          "playing": 836
         }
       ]
     },
@@ -4302,7 +4304,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 56,
-          "playing": 1604
+          "playing": 1432
         }
       ]
     },
@@ -4314,7 +4316,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 59,
-          "playing": 528
+          "playing": 487
         }
       ]
     },
@@ -4326,7 +4328,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 61,
-          "playing": 3562
+          "playing": 4478
         }
       ]
     },
@@ -4338,7 +4340,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 64,
-          "playing": 7260
+          "playing": 4929
         }
       ]
     },
@@ -4350,7 +4352,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 65,
-          "playing": 8597
+          "playing": 6764
         }
       ]
     },
@@ -4362,7 +4364,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 66,
-          "playing": 11676
+          "playing": 9552
         }
       ]
     },
@@ -4374,7 +4376,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 68,
-          "playing": 463
+          "playing": 397
         }
       ]
     },
@@ -4386,7 +4388,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 69,
-          "playing": 3629
+          "playing": 3366
         }
       ]
     },
@@ -4398,7 +4400,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 70,
-          "playing": 2145
+          "playing": 1543
         }
       ]
     },
@@ -4410,7 +4412,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 71,
-          "playing": 1919
+          "playing": 1903
         }
       ]
     },
@@ -4422,7 +4424,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 73,
-          "playing": 1374
+          "playing": 964
         }
       ]
     },
@@ -4434,7 +4436,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 76,
-          "playing": 373
+          "playing": 317
         }
       ]
     },
@@ -4446,7 +4448,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 77,
-          "playing": 858
+          "playing": 610
         }
       ]
     },
@@ -4458,7 +4460,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 79,
-          "playing": 4485
+          "playing": 4552
         }
       ]
     },
@@ -4470,7 +4472,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 81,
-          "playing": 568
+          "playing": 437
         }
       ]
     },
@@ -4482,7 +4484,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 82,
-          "playing": 2746
+          "playing": 2199
         }
       ]
     },
@@ -4494,7 +4496,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 83,
-          "playing": 946
+          "playing": 847
         }
       ]
     },
@@ -4506,7 +4508,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 84,
-          "playing": 372
+          "playing": 364
         }
       ]
     },
@@ -4518,7 +4520,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 85,
-          "playing": 1090
+          "playing": 1085
         }
       ]
     },
@@ -4530,7 +4532,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 88,
-          "playing": 488
+          "playing": 323
         }
       ]
     },
@@ -4542,7 +4544,7 @@
         {
           "source": "explore:top-revisited",
           "rank": 89,
-          "playing": 1714
+          "playing": 1306
         }
       ]
     }
